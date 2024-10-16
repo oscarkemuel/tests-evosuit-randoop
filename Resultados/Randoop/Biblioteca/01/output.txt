@@ -1,0 +1,43 @@
+Normal method executions: 343458
+Exceptional method executions: 1585
+
+Average method execution time (normal termination):      0,000324
+Average method execution time (exceptional termination): 0,0171
+Approximate memory usage 1,39G
+Explorer = ForwardGenerator(steps: 24879, null steps: 5873, num_sequences_generated: 19006;
+    allSequences: 19006, regresson seqs: 19005, error seqs: 0=0=0, invalid seqs: 0, subsumed_sequences: 0, num_failed_output_test: 1;
+    sideEffectFreeMethods: 1115, runtimePrimitivesSeen: 55)
+
+No error-revealing tests to output.
+
+About to look for failing assertions in 9965 regression sequences.
+
+Regression test output:
+Regression test count: 9965
+Writing regression JUnit tests...
+Created file /home/oscar/eclipse-workspace/Resultados/./Randoop/Biblioteca/01/RegressionTest0.java
+Created file /home/oscar/eclipse-workspace/Resultados/./Randoop/Biblioteca/01/RegressionTest1.java
+Created file /home/oscar/eclipse-workspace/Resultados/./Randoop/Biblioteca/01/RegressionTest2.java
+Created file /home/oscar/eclipse-workspace/Resultados/./Randoop/Biblioteca/01/RegressionTest3.java
+Created file /home/oscar/eclipse-workspace/Resultados/./Randoop/Biblioteca/01/RegressionTest4.java
+Created file /home/oscar/eclipse-workspace/Resultados/./Randoop/Biblioteca/01/RegressionTest5.java
+Created file /home/oscar/eclipse-workspace/Resultados/./Randoop/Biblioteca/01/RegressionTest6.java
+Created file /home/oscar/eclipse-workspace/Resultados/./Randoop/Biblioteca/01/RegressionTest7.java
+Created file /home/oscar/eclipse-workspace/Resultados/./Randoop/Biblioteca/01/RegressionTest8.java
+Created file /home/oscar/eclipse-workspace/Resultados/./Randoop/Biblioteca/01/RegressionTest9.java
+Created file /home/oscar/eclipse-workspace/Resultados/./Randoop/Biblioteca/01/RegressionTest10.java
+Created file /home/oscar/eclipse-workspace/Resultados/./Randoop/Biblioteca/01/RegressionTest11.java
+Created file /home/oscar/eclipse-workspace/Resultados/./Randoop/Biblioteca/01/RegressionTest12.java
+Created file /home/oscar/eclipse-workspace/Resultados/./Randoop/Biblioteca/01/RegressionTest13.java
+Created file /home/oscar/eclipse-workspace/Resultados/./Randoop/Biblioteca/01/RegressionTest14.java
+Created file /home/oscar/eclipse-workspace/Resultados/./Randoop/Biblioteca/01/RegressionTest15.java
+Created file /home/oscar/eclipse-workspace/Resultados/./Randoop/Biblioteca/01/RegressionTest16.java
+Created file /home/oscar/eclipse-workspace/Resultados/./Randoop/Biblioteca/01/RegressionTest17.java
+                                                                                                                                                                                              Created file /home/oscar/eclipse-workspace/Resultados/./Randoop/Biblioteca/01/RegressionTest18.java
+Created file /home/oscar/eclipse-workspace/Resultados/./Randoop/Biblioteca/01/RegressionTest19.java
+Created file /home/oscar/eclipse-workspace/Resultados/./Randoop/Biblioteca/01/RegressionTest.java
+Wrote regression JUnit tests.
+About to look for flaky methods.
+
+Invalid tests generated: 0
+

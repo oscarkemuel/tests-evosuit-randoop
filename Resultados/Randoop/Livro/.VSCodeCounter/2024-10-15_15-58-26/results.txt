@@ -1,0 +1,49 @@
+Date : 2024-10-15 15:58:26
+Directory : /home/oscar/eclipse-workspace/Resultados/Randoop/Livro/01
+Total : 25 files,  172413 codes, 0 comments, 11949 blanks, all 184362 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| Java     |         25 |    172,413 |          0 |     11,949 |    184,362 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++---------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                            | files      | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                               |         25 |    172,413 |          0 |     11,949 |    184,362 |
++---------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++---------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                        | language | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| /home/oscar/eclipse-workspace/Resultados/Randoop/Livro/01/RegressionTest.java   | Java     |          6 |          0 |          3 |          9 |
+| /home/oscar/eclipse-workspace/Resultados/Randoop/Livro/01/RegressionTest0.java  | Java     |      7,090 |          0 |        504 |      7,594 |
+| /home/oscar/eclipse-workspace/Resultados/Randoop/Livro/01/RegressionTest1.java  | Java     |      7,262 |          0 |        504 |      7,766 |
+| /home/oscar/eclipse-workspace/Resultados/Randoop/Livro/01/RegressionTest10.java | Java     |      7,175 |          0 |        504 |      7,679 |
+| /home/oscar/eclipse-workspace/Resultados/Randoop/Livro/01/RegressionTest11.java | Java     |      7,322 |          0 |        504 |      7,826 |
+| /home/oscar/eclipse-workspace/Resultados/Randoop/Livro/01/RegressionTest12.java | Java     |      7,384 |          0 |        504 |      7,888 |
+| /home/oscar/eclipse-workspace/Resultados/Randoop/Livro/01/RegressionTest13.java | Java     |      7,442 |          0 |        504 |      7,946 |
+| /home/oscar/eclipse-workspace/Resultados/Randoop/Livro/01/RegressionTest14.java | Java     |      7,292 |          0 |        504 |      7,796 |
+| /home/oscar/eclipse-workspace/Resultados/Randoop/Livro/01/RegressionTest15.java | Java     |      7,222 |          0 |        504 |      7,726 |
+| /home/oscar/eclipse-workspace/Resultados/Randoop/Livro/01/RegressionTest16.java | Java     |      7,478 |          0 |        504 |      7,982 |
+| /home/oscar/eclipse-workspace/Resultados/Randoop/Livro/01/RegressionTest17.java | Java     |      7,204 |          0 |        504 |      7,708 |
+| /home/oscar/eclipse-workspace/Resultados/Randoop/Livro/01/RegressionTest18.java | Java     |      6,887 |          0 |        504 |      7,391 |
+| /home/oscar/eclipse-workspace/Resultados/Randoop/Livro/01/RegressionTest19.java | Java     |      7,556 |          0 |        504 |      8,060 |
+| /home/oscar/eclipse-workspace/Resultados/Randoop/Livro/01/RegressionTest2.java  | Java     |      7,174 |          0 |        504 |      7,678 |
+| /home/oscar/eclipse-workspace/Resultados/Randoop/Livro/01/RegressionTest20.java | Java     |      7,063 |          0 |        504 |      7,567 |
+| /home/oscar/eclipse-workspace/Resultados/Randoop/Livro/01/RegressionTest21.java | Java     |      7,457 |          0 |        504 |      7,961 |
+| /home/oscar/eclipse-workspace/Resultados/Randoop/Livro/01/RegressionTest22.java | Java     |      7,309 |          0 |        504 |      7,813 |
+| /home/oscar/eclipse-workspace/Resultados/Randoop/Livro/01/RegressionTest23.java | Java     |      5,289 |          0 |        354 |      5,643 |
+| /home/oscar/eclipse-workspace/Resultados/Randoop/Livro/01/RegressionTest3.java  | Java     |      7,371 |          0 |        504 |      7,875 |
+| /home/oscar/eclipse-workspace/Resultados/Randoop/Livro/01/RegressionTest4.java  | Java     |      7,510 |          0 |        504 |      8,014 |
+| /home/oscar/eclipse-workspace/Resultados/Randoop/Livro/01/RegressionTest5.java  | Java     |      7,348 |          0 |        504 |      7,852 |
+| /home/oscar/eclipse-workspace/Resultados/Randoop/Livro/01/RegressionTest6.java  | Java     |      7,279 |          0 |        504 |      7,783 |
+| /home/oscar/eclipse-workspace/Resultados/Randoop/Livro/01/RegressionTest7.java  | Java     |      7,120 |          0 |        504 |      7,624 |
+| /home/oscar/eclipse-workspace/Resultados/Randoop/Livro/01/RegressionTest8.java  | Java     |      7,152 |          0 |        504 |      7,656 |
+| /home/oscar/eclipse-workspace/Resultados/Randoop/Livro/01/RegressionTest9.java  | Java     |      7,021 |          0 |        504 |      7,525 |
+| Total                                                                           |          |    172,413 |          0 |     11,949 |    184,362 |
++---------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
